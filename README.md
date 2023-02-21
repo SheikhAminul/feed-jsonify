@@ -15,7 +15,7 @@ feed-jsonify provides functions to parse RSS/Atom/XML feed data and convert it t
 -   [Install](#install)
 -   [Usage](#usage)
 -   [API Reference](#api-reference)
-*   [Contributing](#contributing)
+-   [Contributing](#contributing)
 -   [License](#license)
 -   [Author](#author)
 
