@@ -1,0 +1,40 @@
+{
+	"name": "feed-jsonify",
+	"version": "1.0.0",
+	"description": "Parses RSS/Atom/XML feed data and converts it into JSON format.",
+	"main": "lib/index.js",
+	"types": "lib/index.d.ts",
+	"scripts": {
+		"build": "tsc"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/SheikhAminul/feed-jsonify.git"
+	},
+	"keywords": [
+		"RSS",
+		"RSS to JSON",
+		"Atom",
+		"Atom to JSON",
+		"XML",
+		"XML to JSON",
+		"RSS Parser",
+		"Atom Parser",
+		"Feed Parser",
+		"XML Parser",
+		"RSS Reader",
+		"Feed Reader"
+	],
+	"author": "Sheikh Aminul <aminulfse@gmail.com>",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/SheikhAminul/feed-jsonify/issues"
+	},
+	"files": [
+		"lib/**/*"
+	],
+	"homepage": "https://github.com/SheikhAminul/feed-jsonify#readme",
+	"devDependencies": {
+		"typescript": "^4.8.4"
+	}
+}
